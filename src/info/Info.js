@@ -4,6 +4,7 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -29,7 +30,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Mritunjay",
     lastName: "Agarwal",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "ma", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -97,34 +98,40 @@ export const info = {
     ],
     portfolio: [
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "WebLayer Domain Marketplace",
+            live: "https://domain-search-49l5.onrender.com/",
+            source: "https://github.com/mritunjayagarwal",
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "DLF Gurgaon",
+            live: "https://dlftest.netlify.app/",
+            source: "https://github.com/mritunjayagarwal",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Indipaisa Merchant",
+            live: "https://indipaisa.netlify.app",
+            source: "https://github.com/mritunjayagarwal",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Bettel Gaming",
+            live: "https://bettle-gaming.netlify.app/",
+            source: "https://github.com/mritunjayagarwal",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Blackfort Crypto Marketplace",
+            live: "https://blackfort-exchange.netlify.app/",
+            source: "https://github.com/mritunjayagarwal",
             image: mock5
-        }
+        },
+        {
+            title: "Quant Finance DEX Swap",
+            live: "https://quantfinance.vercel.app/",
+            source: "https://github.com/mritunjayagarwal",
+            image: mock6
+        },
     ]
 }
