@@ -48,7 +48,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Software Development Engineer 1 at Springworks"
+            text: "SDE 1 at Springworks"
         },
         {
             emoji: "📧",
@@ -81,10 +81,6 @@ export const info = {
     }
     ,
     hobbies: [
-        {
-            label: 'reading',
-            emoji: '📖'
-        },
         {
             label: 'gaming',
             emoji: '🎮'
