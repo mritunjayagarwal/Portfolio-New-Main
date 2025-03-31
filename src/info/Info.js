@@ -104,6 +104,18 @@ export const info = {
             image: mock1
         },
         {
+            title: "IEEE GLA University",
+            live: "https://iscon-2k23.netlify.app/",
+            source: "https://github.com/mritunjayagarwal",
+            image: mock1
+        },
+        {
+            title: "SYNK BOT Crypto Coin",
+            live: "https://synk-rev.vercel.app/",
+            source: "https://github.com/mritunjayagarwal",
+            image: mock1
+        },
+        {
             title: "DLF Gurgaon",
             live: "https://dlftest.netlify.app/",
             source: "https://github.com/mritunjayagarwal",
