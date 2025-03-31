@@ -5,6 +5,8 @@ import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
 import mock6 from "../img/mock6.png"
+import mock7 from "../img/mock7.png"
+import mock8 from "../img/mock8.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -107,13 +109,13 @@ export const info = {
             title: "IEEE GLA University",
             live: "https://iscon-2k23.netlify.app/",
             source: "https://github.com/mritunjayagarwal",
-            image: mock1
+            image: mock7
         },
         {
             title: "SYNK BOT Crypto Coin",
             live: "https://synk-rev.vercel.app/",
             source: "https://github.com/mritunjayagarwal",
-            image: mock1
+            image: mock8
         },
         {
             title: "DLF Gurgaon",
